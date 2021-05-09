@@ -1,5 +1,11 @@
 .DS_Store
 node_modules
 /.svelte-kit
-/build
 /functions
+/src
+/.svelte-kit
+/node-modules
+.npmrc
+README.md
+svelte.config.js
+tsconfig.json
